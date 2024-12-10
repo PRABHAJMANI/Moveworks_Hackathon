@@ -1,5 +1,5 @@
 
-# Chat Ollama Integration
+# Moveworks Hackathon
 
 This repository contains a chatbot application modified to integrate **Chat Ollama** as its conversational AI model. The integration replaces the existing models with Chat Ollama's capabilities.
 
