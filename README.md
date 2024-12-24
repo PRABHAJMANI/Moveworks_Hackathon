@@ -70,7 +70,3 @@ Placeholder for embedding functionality (not modified in this version).
 
 - Ensure the Chat Ollama server is running and accessible at the configured URL.
 - Update the API key and model name in the scripts as necessary.
-
-## License
-
-This project is open-sourced under the MIT License.
