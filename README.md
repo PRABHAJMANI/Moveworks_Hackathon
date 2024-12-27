@@ -43,7 +43,7 @@ Placeholder for embedding functionality (not modified in this version).
    Launch the Streamlit app:
    ```bash
    streamlit run app.py
-   ```
+   ```    
 
 3. **Test the Terminal Script**
    Execute the terminal-based chatbot:
